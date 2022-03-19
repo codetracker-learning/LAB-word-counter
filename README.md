@@ -18,7 +18,7 @@ $ cd LAB-word-counter
 
 ![word-counter](https://user-images.githubusercontent.com/29741570/159106916-1fe1d5b0-2d9a-4b78-ad7a-781d157c9fee.gif)
 
-- Move issue tickets into the project
+- Move issue tickets into the project and work through them each
 
 ![drag](https://user-images.githubusercontent.com/29741570/159106939-f3474651-3dca-4bc7-864d-9ec78b0a65f2.gif)
 

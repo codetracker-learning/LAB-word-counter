@@ -146,8 +146,9 @@ $ git push origin add-code
 
 
 ## How to complete the project
-- Go to your repo and click on the Issues Tab
-<img width="1284" alt="Screen Shot 2022-03-18 at 11 29 05 PM" src="https://user-images.githubusercontent.com/29741570/159106894-fe3c59f5-6ba3-40d5-9942-27fc2dc98c54.png">
+- Go to your repo and click on the Issues Tab taking note of the things that need to be completed for the lab
+<img width="1277" alt="Screen Shot 2022-03-19 at 1 42 02 AM" src="https://user-images.githubusercontent.com/29741570/159110623-e41804ad-fca5-46cd-a7db-2fa6b2f058cc.png">
+
 
 - Create a project named "Word Counter" and choose "Basic Kanban"
 

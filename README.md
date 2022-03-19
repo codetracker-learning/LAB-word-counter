@@ -22,4 +22,8 @@ $ cd LAB-word-counter
 
 ![drag](https://user-images.githubusercontent.com/29741570/159106939-f3474651-3dca-4bc7-864d-9ec78b0a65f2.gif)
 
+## Styling
 
+<img width="1245" alt="Screen Shot 2022-03-18 at 10 47 46 PM" src="https://user-images.githubusercontent.com/29741570/159106701-16d84e20-29ad-46d6-8270-a710f92d9a20.png">
+<img width="1244" alt="Screen Shot 2022-03-18 at 10 47 57 PM" src="https://user-images.githubusercontent.com/29741570/159106702-eed51363-25c9-4965-9cd7-6c749c728ffb.png">
+<img width="1243" alt="Screen Shot 2022-03-18 at 10 48 26 PM" src="https://user-images.githubusercontent.com/29741570/159106703-5f6b81ab-e10a-490e-be32-c80c65c39171.png">

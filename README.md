@@ -144,8 +144,7 @@ $ git push origin add-code
 - Go back to VS Code and checkout the main branch `git checkout main`
 - Pull the updated code: `git pull origin main`
 
-
-## How to complete the project
+### Get Organized
 - Go to your repo and click on the Issues Tab taking note of the things that need to be completed for the lab
 <img width="1277" alt="Screen Shot 2022-03-19 at 1 42 02 AM" src="https://user-images.githubusercontent.com/29741570/159110623-e41804ad-fca5-46cd-a7db-2fa6b2f058cc.png">
 
@@ -165,4 +164,8 @@ $ git push origin add-code
 <img width="1243" alt="Screen Shot 2022-03-18 at 10 48 26 PM" src="https://user-images.githubusercontent.com/29741570/159106703-5f6b81ab-e10a-490e-be32-c80c65c39171.png">
 
 ## Challenge
-Add some Bootstrap styles/classes to your HTML elements like buttons and the form.
+Add Bootstrap to your HTML elements like buttons and the form.
+
+NOTE: Do not remove the ID attributes from the HTML. When you copy over the Bootstrap component, make sure to add the attribute to it.
+
+

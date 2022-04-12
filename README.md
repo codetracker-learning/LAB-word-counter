@@ -20,7 +20,7 @@ $ git checkout -b setup
 - Create the following files:
   - Create an `index.html` file
   - Create a `main.css` file
-  - Create a `scripts.js` file
+  - Create a `main.js` file
 - Connect the JS file and your CSS file to your HTML
   - If you need help with this, do a google search for how to do it
 
@@ -70,7 +70,7 @@ Place the following code in the `index.html` file
 
 ```
 
-Place the following code in the `scripts.js` file
+Place the following code in the `main.js` file
 
 ```javascript
 console.log("Connected!")

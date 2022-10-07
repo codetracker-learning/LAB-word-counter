@@ -148,15 +148,6 @@ $ git push origin add-code
 - Go to your repo and click on the Issues Tab taking note of the things that need to be completed for the lab
 <img width="1277" alt="Screen Shot 2022-03-19 at 1 42 02 AM" src="https://user-images.githubusercontent.com/29741570/159110623-e41804ad-fca5-46cd-a7db-2fa6b2f058cc.png">
 
-
-- Create a project named "Word Counter" and choose "Basic Kanban"
-
-![word-counter](https://user-images.githubusercontent.com/29741570/159106916-1fe1d5b0-2d9a-4b78-ad7a-781d157c9fee.gif)
-
-- Move issue tickets into the project and work through them each
-
-![drag](https://user-images.githubusercontent.com/29741570/159106939-f3474651-3dca-4bc7-864d-9ec78b0a65f2.gif)
-
 ## Styling
 
 <img width="1245" alt="Screen Shot 2022-03-18 at 10 47 46 PM" src="https://user-images.githubusercontent.com/29741570/159106701-16d84e20-29ad-46d6-8270-a710f92d9a20.png">
